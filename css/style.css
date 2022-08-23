@@ -1,0 +1,27 @@
+.footer .tamaño {
+    max-height: 100vh;
+}
+
+main {
+    min-height: 100vh;
+    background-color: rgba(112, 235, 194, 0.164);
+}
+
+section .container {
+    display: flex;
+    flex-direction: column;
+}
+
+.container .tamaño {
+    width: 50%;
+}
+
+header .alineacion {
+    width: 100%;
+    
+}
+
+.container2 , footer {
+    background: linear-gradient(45deg, aliceblue, transparent);
+}
+
